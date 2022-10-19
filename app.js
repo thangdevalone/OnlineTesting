@@ -128,7 +128,7 @@ function exam(data){
         </div>
         `
     }
-    body.innerHTML+=map();
+    // body.innerHTML+=map();
     for(var i=0;i<10;i++){
         render(data,i)
     }
