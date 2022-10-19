@@ -68,7 +68,6 @@ function start() {
         for(var i=0; i<data.length; i++){
             dataRandom.push(data[random[i]]);
         }
-        console.log(dataRandom)
         exam(dataRandom)
     })
 }
