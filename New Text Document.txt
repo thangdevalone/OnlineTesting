@@ -1,0 +1,118 @@
+[
+ {
+  "ques": "",
+  "ans": [
+   "A. 24",
+   "B. 39",
+   "C. 15"
+  ],
+  "trueAns": "Qw==",
+  "img": "https://i.vdoc.vn/data/image/2019/01/08/trac-nghiem-iq-so-18-2.png",
+  "id": "1"
+ },
+ {
+  "ques": "",
+  "ans": [
+   "A. 3",
+   "B. 6",
+   "C. 9"
+  ],
+  "trueAns": "Qg==",
+  "img": "https://i.vdoc.vn/data/image/2019/01/08/trac-nghiem-iq-so-18-5.png",
+  "id": "2"
+ },
+ {
+  "ques": "",
+  "ans": [
+   "A. 1",
+   "B. 2",
+   "C. 3"
+  ],
+  "trueAns": "QQ==",
+  "img": "https://i.vdoc.vn/data/image/2019/01/08/trac-nghiem-iq-so-18-6.png",
+  "id": "3"
+ },
+ {
+  "ques": "",
+  "ans": [
+   "A. 156",
+   "B. 214",
+   "C. 287",
+   "D. 298"
+  ],
+  "trueAns": "Qw==",
+  "img": "https://i.vdoc.vn/data/image/2018/10/15/trac-nghiem-iq-so-16-3.png",
+  "id": "4"
+ },
+ {
+  "ques": "\"Nếu tất cả TRÂU là BÒ và tất cả BÒ là CỪU, thì tất cả TRÂU chắc chắn là CỪU\" Câu trên là:",
+  "ans": [
+   "A. Đúng",
+   "B. Sai",
+   "C. Ý kiến khác"
+  ],
+  "trueAns": "QQ==",
+  "img": "#",
+  "id": "5"
+ },
+ {
+  "ques": "Khi chia số nguyên n cho 17, ta được kết quả là x và số dư là 5. Khi chia n cho 23, ta được kết quả là y và số dư là 14. Hỏi đẳng thức nào dưới đây là đúng ?",
+  "ans": [
+   "A. 23x+17y=19",
+   "B. 17x-23y=9",
+   "C. 17x+23y=19",
+   "D. 14x+5y=6"
+  ],
+  "trueAns": "Qg==",
+  "img": "#",
+  "id": "6"
+ },
+ {
+  "ques": "Có 4 người đàn ông cần đi qua một chiếc cầu rất nguy hiểm trong đêm tối và trong tay phải có đuốc mới qua cầu được. Tuy nhiên, cả nhóm chỉ có một cây đuốc, bên cạnh đó, cầu rất yếu nên mỗi lượt đi chỉ được 2 người. Thời gian 4 người (giả sử gọi là A, B, C, D) qua cầu cũng khác nhau: A - 1 phút, B - 2 phút, C - 7 phút, D - 10 phút. Hỏi thời gian ngắn nhất để 4 người đàn ông qua cầu là bao lâu?",
+  "ans": [
+   "A. 15 phút",
+   "B. 17 phút",
+   "C. 19 phút",
+   "D. 21 phút"
+  ],
+  "trueAns": "Qg==",
+  "img": "#",
+  "id": "7"
+ },
+ {
+  "ques": "Chữ cái nào tiếp theo trong dãy này đây bạn: A D G J ......?",
+  "ans": [
+   "A. H",
+   "B. P",
+   "C. M",
+   "D. N"
+  ],
+  "trueAns": "Qw==",
+  "img": "#",
+  "id": "8"
+ },
+ {
+  "ques": "Con số tiếp theo là con số nào nhỉ: 21, 20, 18, 15, 11, ........?",
+  "ans": [
+   "A. 9",
+   "B. 8",
+   "C. 7",
+   "D. 6"
+  ],
+  "trueAns": "RA==",
+  "img": "#",
+  "id": "9"
+ },
+ {
+  "ques": "Trong tin học 1+1=?",
+  "ans": [
+   "A. 2",
+   "B. 11",
+   "C. 10",
+   "D. 10"
+  ],
+  "trueAns": "RA==",
+  "img": "#",
+  "id": "10"
+ }
+]
