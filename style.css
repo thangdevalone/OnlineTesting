@@ -29,8 +29,11 @@ body{
     font-weight: 300;
 }
 .item{
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     text-align: center;
+}
+.item:last-child{
+    margin-top: 55px;
 }
 .btn{
     background-color: #CED4DA;
@@ -81,7 +84,6 @@ body{
     cursor: pointer;
 }
 .passInput{
-    margin-top: 15px;
     font-size: 20px;
     height: 30px;
 }
@@ -96,7 +98,7 @@ body{
     color:red;
 }
 .form{
-    margin: 0 auto;
+    margin: 0 auto 0 350px;
     width: 50%;
     padding:20px;
     position: relative;

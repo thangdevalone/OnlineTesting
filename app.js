@@ -161,7 +161,7 @@ function exam(data) {
             if(giay==0){
                 giayToDo=0;
                 phutToDo++;
-                giay=60;
+                giay=0;
                 phut--;
             }
             giay--;
@@ -169,10 +169,10 @@ function exam(data) {
             if(isClearTime){
                 clearInterval(timeCount);
             }
-            if(phut===0){
+            if(giay==0&&phut==0){
                 finishAttempt();
-                clearInterval(timeCount);
             }
+            
             clock.innerHTML=`${remakeTime(phut)}:${remakeTime(giay)} `;
     
         }, 1000);
@@ -217,7 +217,11 @@ function exam(data) {
 
     const finishAttempt=()=>{
         isClearTime=true;
-        document.querySelector('.modal').remove('active-f');
+        const modalPopup=document.querySelector('.modal');
+        if(modalPopup){
+            modalPopup.remove('active-f');
+
+        }
         const childBody = document.querySelectorAll('.child-body');
         const kq=[]
         const userAns=()=>{
